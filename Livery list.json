@@ -1,0 +1,16 @@
+{
+    "aircrafts": {
+      "3307": {
+            "index": [0, 1, 2],
+            "parts": [0, 0, 0],
+            "liveries":[{
+                "name": "United Express",
+                "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/united/image0.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/united/image1.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/united/image2.jpg"]
+            },
+            {
+                "name": "Adria",
+                "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/adria/image0.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/adria/image1.jpg", "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/bombardier_crj700/adria/image2.jpg"]
+            }
+        ]
+     }
+      
